@@ -1,1 +1,15 @@
-
+body{
+    background-color: rgb(24, 110, 7);
+    color: rgb(51, 238, 67);
+}
+header{
+    background-color: rgb(0, 247, 111);
+    color:#b6ff0c:
+}
+main{
+    background-color: rgb(47, 161, 98);
+}
+footer{
+    background-color: #caff0c;
+    color:azure;
+}
