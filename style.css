@@ -124,3 +124,10 @@ button:hover {
     margin: 20px auto;
 
 }
+
+.galeria {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
