@@ -20,7 +20,7 @@
     
 }
 body {
-    background-color: var(--cor-fundo);
+    background-color: var(--cor-hover);
     color: var(--cor-texto);
     font-family: Arial, sans-serif;
     margin: 0;
